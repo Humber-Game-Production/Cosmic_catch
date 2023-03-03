@@ -1,4 +1,3 @@
-
 <p align="center">
 <a href="">
   <img src="Assets/Cosmic_Catch-Logo.png" width="500" title="Cosmic Catch">
@@ -6,11 +5,10 @@
 </p>
 <h1 align="center">Cosmic Catch: An Intergalactic Food Truck Adventure</h1>
 
-
 Cosmic Catch is a unique and enjoyable gaming experience that combines elements of fishing, cooking, and space adventure. In this game, the player travels to different planets and environments to collect ingredients, fish for rare catches, and cook up dishes to serve customers. The more successful the player is, the more upgrades and improvements they can make to their food truck, equipment, and cooking skills. The ultimate goal is to become the best food truck in the galaxy, by preparing to the intergalactic cook-off happening on planet Daucus carota.
 
-
 ## About :information_source:
+
 Our Game writing in C++ and use the Unreal Engine 5.
 
 The game was develop for the program of Game Programming and Design of Humber College
@@ -21,7 +19,8 @@ Click On <code><a href="https://trello.com/invite/b/1UWEQkvj/ATTI48473ab65f19540
 
 ## Controls
 
-  ### PC Controls
+### PC Controls
+
 <details>
     <summary>Fishing Controls </summary>
     &nbsp;  - Space: Cast line, Sink Anchor
@@ -33,7 +32,6 @@ Click On <code><a href="https://trello.com/invite/b/1UWEQkvj/ATTI48473ab65f19540
     &nbsp; - Right Mouse Button: Reel in line
     <br>
 </details>
-
 
 <details>
    <summary>Cooking Controls </summary>
@@ -158,7 +156,9 @@ Click On <code><a href="https://trello.com/invite/b/1UWEQkvj/ATTI48473ab65f19540
 </details> -->
 
 ## Visual Style
+
 <!-- TODO add some examples -->
+
 - Colorful and Vibrant
 - Cartoonish and Whimsical
 - Futuristic
@@ -172,29 +172,27 @@ Click On <code><a href="https://trello.com/invite/b/1UWEQkvj/ATTI48473ab65f19540
 - Catchy and Memorable
 - Dynamic
 
-
-
 ## About the team :star2:
+
 <!-- TODO  add all the members of this project -->
 
-The team Josh consists of <a href="https://www.linkedin.com/in/dorz/">Dor Zairi</a>, <a href="https://www.linkedin.com/in/moses-mckeon-90212a221/">Moses Mckeon</a>
-
-
+The team consists of <a href="https://www.linkedin.com/in/dorz/">Dor Zairi</a>, <a href="https://www.linkedin.com/in/moses-mckeon-90212a221/">Moses Mckeon</a>,<a href="https://www.linkedin.com/in/dorz/">Maxwell Donnelly</a>,
 
 ###### Roles In The Project
+
 <!-- TODO add all the members of this project -->
 
-| Name        | Role           |
-| :-------------: |:-------------:|
-|  <a href="https://www.linkedin.com/in/dorz/">Dor Zairi</a>   |Project Lead |
-| <a href="https://www.linkedin.com/in/moses-mckeon-90212a221/">Moses Mckeon</a> | Project Lead   |
-
+|                                        Name                                        |        Role         |
+| :--------------------------------------------------------------------------------: | :-----------------: |
+|             <a href="https://www.linkedin.com/in/dorz/">Dor Zairi</a>              |    Project Lead     |
+|   <a href="https://www.linkedin.com/in/moses-mckeon-90212a221/">Moses Mckeon</a>   |    Project Lead     |
+| <a href="https://www.linkedin.com/in/moses-mckeon-90212a221/">Maxwell Donnelly</a> | GamePlay Programmer |
 
 # Tech That Was Used In The Project 👩‍💻
+
 <!-- TODO add more tech to this section -->
 
 <a align="center" href="https://en.wikipedia.org/wiki/Unreal_Engine"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/unrealengine/unrealengine-original-wordmark.svg" alt="Unreal Engine" width="50" height="50"/></a> - Unreal Engine
-
 
 <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bash/bash-original.svg" alt="Bash" width="50" height="50"/></a> - Bash
 
@@ -202,11 +200,8 @@ The team Josh consists of <a href="https://www.linkedin.com/in/dorz/">Dor Zairi<
 
 <a href="https://en.wikipedia.org/wiki/C++"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/></a> - C++
 
-
-
 <!-- TODO make a gif for the game -->
 <!-- # Show Case -->
-
 
 <!-- ### Attack
 
