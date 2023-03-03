@@ -11,13 +11,13 @@ Cosmic Catch is a unique and enjoyable gaming experience that combines elements 
 
 
 ## About :information_source:
-Our Game writing in C# and use the Unity Engine.
+Our Game writing in C++ and use the Unreal Engine 5.
 
 The game was develop for the program of Game Programming and Design of Humber College
 
 To View Our Project GDD <a href ="https://docs.google.com/document/d/1z9bbO228pJGLcEswCIYL1J6K8Z5_Y8eXFhxP-M9GANo/edit?usp=sharing"> :open_book:</a>
 
-Click On <code><a href="https://trello.com/invite/b/1UWEQkvj/ATTI48473ab65f195401564fa11dc71a940473473C31/cosmic-catch"><img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" alt="trello board" width="60" height="60"/></a></code> To Go To Our Public Trello Board
+Click On <code><a href="https://trello.com/invite/b/1UWEQkvj/ATTI48473ab65f195401564fa11dc71a940473473C31/cosmic-catch"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/trello/trello-plain-wordmark.svg" alt="trello board" width="60" height="60"/></a></code> To Go To Our Public Trello Board
 
 ## Controls
 
