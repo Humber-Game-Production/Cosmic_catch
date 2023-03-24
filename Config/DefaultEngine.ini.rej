@@ -1,0 +1,10 @@
+diff a/Config/DefaultEngine.ini b/Config/DefaultEngine.ini	(rejected hunks)
+@@ -12,7 +12,7 @@
+ ThreePlayerSplitscreenLayout=FavorTop
+ FourPlayerSplitscreenLayout=Grid
+ bOffsetPlayerGamepadIds=False
+-GameInstanceClass=/Game/GameModes/CosmicCatchGameInstance.CosmicCatchGameInstance_C
++GameInstanceClass=/Game/GameModes/CC_GameInstance.CC_GameInstance_C
+ GameDefaultMap=/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap
+ ServerDefaultMap=/Engine/Maps/Entry.Entry
+ GlobalDefaultGameMode=/Script/Engine.GameMode
