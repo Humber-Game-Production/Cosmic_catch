@@ -179,11 +179,31 @@ Click On <code><a href="https://trello.com/invite/b/1UWEQkvj/ATTI48473ab65f19540
 The team consists of 23 artist and 15 programmers.
 <br>
 the programmers consists of :
-<a href="https://www.linkedin.com/in/dorz/">Dor Zairi</a>, <a href="https://www.linkedin.com/in/moses-mckeon-90212a221/">Moses Mckeon</a>,<a href="https://www.linkedin.com/in/dorz/">Maxwell Donnelly</a>,
-<a href="https://twitter.com/Akuzukii">Dominic Maximo</a>, <a href="https://www.linkedin.com/in/william-huang-759a3921b">William Huang</a>
+<a href="https://www.linkedin.com/in/dorz/">Dor Zairi</a>,
+<a href="https://www.linkedin.com/in/moses-mckeon-90212a221/">Moses Mckeon</a>,
+<a href="https://www.linkedin.com/in/dorz/">Maxwell Donnelly</a>,
+<a href="https://twitter.com/Akuzukii">Dominic Maximo</a>,
+<a href="https://www.linkedin.com/in/william-huang-759a3921b">William Huang</a>,
+<a href="https://www.linkedin.com/in/antoniukoff/">Vlad Antoniuk</a>,
+<a href="https://www.linkedin.com/in/jacob-bruce-93224522b/">Jacob Bruce</a>,
+<a href="https://www.linkedin.com/in/aaron-martin-bloom-34050a231/">Aaron Martin-Bloom</a>,
+<a href="https://www.linkedin.com/in/zavior-stephenson-87254b19b/">Zavior Stephenson</a>,
+<a href="https://ca.linkedin.com/in/ryler-bleau-359013206">Ryler B.</a>
 
 <br>
 the artist consists of :
+<a href="https://www.linkedin.com/in/jena-palma-thompson-b40b64239">Jena</a>,
+<a href="https://www.linkedin.com/in/sonalika-bansiwal-721b21219">Sonalika</a>,
+<a href="https://www.linkedin.com/in/ariana-yang-94b165259/">Ariana</a>,
+<a href="https://www.linkedin.com/in/carlos-iglesias-fu-460094149/">Carlos</a>,
+<a href="https://www.linkedin.com/in/linh-luu-b44b61233">Linh</a>,
+<a href="https://www.linkedin.com/in/sam-sameni-aa4609221">Sam</a>,
+<a href="https://www.linkedin.com/in/dueol-lee-endjfcar/">Dueol</a>,
+<a href="https://www.linkedin.com/in/c-f-émilie-194a07268/">Emilie</a>,
+<a href="https://www.linkedin.com/in/itsabelle">Isabelle</a>,
+<a href="https://www.linkedin.com/in/kyla-evans-48a106217/">Kyla</a>,
+<a href="https://www.linkedin.com/in/jolene-sollner-48b768220">Jolene</a>,
+<a href="https://www.linkedin.com/mwlite/in/ariel-lima-702291269">Ariel</a>
 
 ###### Pogrammers Roles In The Project
 
@@ -194,7 +214,7 @@ the artist consists of :
 |             <a href="https://www.linkedin.com/in/dorz/">Dor Zairi</a>              |    Project Lead     |
 |   <a href="https://www.linkedin.com/in/moses-mckeon-90212a221/">Moses Mckeon</a>   |    Project Lead     |
 | <a href="https://www.linkedin.com/in/moses-mckeon-90212a221/">Maxwell Donnelly</a> | GamePlay Programmer |
-| <a href="https://www.linkedin.com/in/moses-mckeon-90212a221/">Maxwell Donnelly</a> | UI Programmer |
+| <a href="https://www.linkedin.com/in/moses-mckeon-90212a221/">Maxwell Donnelly</a> |    UI Programmer    |
 
 ###### Artists Roles In The Project
 
@@ -205,7 +225,6 @@ the artist consists of :
 |             <a href="https://www.linkedin.com/in/dorz/">Dor Zairi</a>              |    Project Lead     |
 |   <a href="https://www.linkedin.com/in/moses-mckeon-90212a221/">Moses Mckeon</a>   |    Project Lead     |
 | <a href="https://www.linkedin.com/in/moses-mckeon-90212a221/">Maxwell Donnelly</a> | GamePlay Programmer |
-
 
 # Tech That Was Used In The Project 👩‍💻
 
