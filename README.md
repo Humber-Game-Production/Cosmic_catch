@@ -3,7 +3,7 @@
   <img src="Assets/Cosmic_Catch-Logo.png" width="500" title="Cosmic Catch">
   </a>
 </p>
-<h1 align="center">Cosmic Catch: An Intergalactic Food Truck Adventure</h1>
+<h1 align="center">Cosmic Catch: An Intergalactic Food Truck Adventure 🍗🚚</h1>
 
 Cosmic Catch is a unique and enjoyable gaming experience that combines elements of fishing, cooking, and space adventure. In this game, the player travels to different planets and environments to collect ingredients, fish for rare catches, and cook up dishes to serve customers. The more successful the player is, the more upgrades and improvements they can make to their food truck, equipment, and cooking skills. The ultimate goal is to become the best food truck in the galaxy, by preparing to the intergalactic cook-off happening on planet Daucus carota.
 
@@ -192,6 +192,8 @@ the programmers consists of :
 
 <br>
 the artist consists of :
+<a href="https://www.linkedin.com/mwlite/in/ariel-lima-702291269">Ariel</a>,
+<a href="https://www.linkedin.com/in/c-f-émilie-194a07268/">Emilie</a>,
 <a href="https://www.linkedin.com/in/jena-palma-thompson-b40b64239">Jena</a>,
 <a href="https://www.linkedin.com/in/sonalika-bansiwal-721b21219">Sonalika</a>,
 <a href="https://www.linkedin.com/in/ariana-yang-94b165259/">Ariana</a>,
@@ -199,32 +201,45 @@ the artist consists of :
 <a href="https://www.linkedin.com/in/linh-luu-b44b61233">Linh</a>,
 <a href="https://www.linkedin.com/in/sam-sameni-aa4609221">Sam</a>,
 <a href="https://www.linkedin.com/in/dueol-lee-endjfcar/">Dueol</a>,
-<a href="https://www.linkedin.com/in/c-f-émilie-194a07268/">Emilie</a>,
 <a href="https://www.linkedin.com/in/itsabelle">Isabelle</a>,
 <a href="https://www.linkedin.com/in/kyla-evans-48a106217/">Kyla</a>,
 <a href="https://www.linkedin.com/in/jolene-sollner-48b768220">Jolene</a>,
-<a href="https://www.linkedin.com/mwlite/in/ariel-lima-702291269">Ariel</a>
 
 ###### Pogrammers Roles In The Project
 
 <!-- TODO add all the programmers and their role -->
+<div align="center">
 
 |                                        Name                                        |        Role         |
 | :--------------------------------------------------------------------------------: | :-----------------: |
 |             <a href="https://www.linkedin.com/in/dorz/">Dor Zairi</a>              |    Project Lead     |
 |   <a href="https://www.linkedin.com/in/moses-mckeon-90212a221/">Moses Mckeon</a>   |    Project Lead     |
 | <a href="https://www.linkedin.com/in/moses-mckeon-90212a221/">Maxwell Donnelly</a> | GamePlay Programmer |
-| <a href="https://www.linkedin.com/in/moses-mckeon-90212a221/">Maxwell Donnelly</a> |    UI Programmer    |
+</div>
 
 ###### Artists Roles In The Project
 
+
 <!-- TODO add all the artists and their role -->
 
-|                                        Name                                        |        Role         |
-| :--------------------------------------------------------------------------------: | :-----------------: |
-|             <a href="https://www.linkedin.com/in/dorz/">Dor Zairi</a>              |    Project Lead     |
-|   <a href="https://www.linkedin.com/in/moses-mckeon-90212a221/">Moses Mckeon</a>   |    Project Lead     |
-| <a href="https://www.linkedin.com/in/moses-mckeon-90212a221/">Maxwell Donnelly</a> | GamePlay Programmer |
+<div align="center">
+
+|                                      Name                                      |        Role         |
+| :----------------------------------------------------------------------------: | :-----------------: |
+|  <a href="https://www.linkedin.com/mwlite/in/ariel-lima-702291269">Ariel</a>   |    Project Lead     |
+|     <a href="https://www.linkedin.com/in/c-f-émilie-194a07268/">Emilie</a>     |    Project Lead     |
+|  <a href="https://www.linkedin.com/in/jena-palma-thompson-b40b64239">Jena</a>  | GamePlay Programmer |
+| <a href="https://www.linkedin.com/in/sonalika-bansiwal-721b21219">Sonalika</a> |         N\A         |
+|    <a href="https://www.linkedin.com/in/ariana-yang-94b165259/">Ariana</a>     |         N\A         |
+| <a href="https://www.linkedin.com/in/carlos-iglesias-fu-460094149/">Carlos</a> |         N\A         |
+|       <a href="https://www.linkedin.com/in/linh-luu-b44b61233">Linh</a>        |         N\A         |
+|       <a href="https://www.linkedin.com/in/sam-sameni-aa4609221">Sam</a>       |         N\A         |
+|      <a href="https://www.linkedin.com/in/dueol-lee-endjfcar/">Dueol</a>       |         N\A         |
+|          <a href="https://www.linkedin.com/in/itsabelle">Isabelle</a>          |         N\A         |
+|      <a href="https://www.linkedin.com/in/kyla-evans-48a106217/">Kyla</a>      |         N\A         |
+|   <a href="https://www.linkedin.com/in/jolene-sollner-48b768220">Jolene</a>    |         N\A         |
+
+</div>
 
 # Tech That Was Used In The Project 👩‍💻
 
