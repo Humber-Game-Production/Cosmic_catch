@@ -176,17 +176,36 @@ Click On <code><a href="https://trello.com/invite/b/1UWEQkvj/ATTI48473ab65f19540
 
 <!-- TODO  add all the members of this project -->
 
-The team consists of <a href="https://www.linkedin.com/in/dorz/">Dor Zairi</a>, <a href="https://www.linkedin.com/in/moses-mckeon-90212a221/">Moses Mckeon</a>,<a href="https://www.linkedin.com/in/dorz/">Maxwell Donnelly</a>,
+The team consists of 23 artist and 15 programmers.
+<br>
+the programmers consists of :
+<a href="https://www.linkedin.com/in/dorz/">Dor Zairi</a>, <a href="https://www.linkedin.com/in/moses-mckeon-90212a221/">Moses Mckeon</a>,<a href="https://www.linkedin.com/in/dorz/">Maxwell Donnelly</a>,
+<a href="https://twitter.com/Akuzukii">Dominic Maximo</a>, <a href="https://www.linkedin.com/in/william-huang-759a3921b">William Huang</a>
 
-###### Roles In The Project
+<br>
+the artist consists of :
 
-<!-- TODO add all the members of this project -->
+###### Pogrammers Roles In The Project
+
+<!-- TODO add all the programmers and their role -->
 
 |                                        Name                                        |        Role         |
 | :--------------------------------------------------------------------------------: | :-----------------: |
 |             <a href="https://www.linkedin.com/in/dorz/">Dor Zairi</a>              |    Project Lead     |
 |   <a href="https://www.linkedin.com/in/moses-mckeon-90212a221/">Moses Mckeon</a>   |    Project Lead     |
 | <a href="https://www.linkedin.com/in/moses-mckeon-90212a221/">Maxwell Donnelly</a> | GamePlay Programmer |
+| <a href="https://www.linkedin.com/in/moses-mckeon-90212a221/">Maxwell Donnelly</a> | UI Programmer |
+
+###### Artists Roles In The Project
+
+<!-- TODO add all the artists and their role -->
+
+|                                        Name                                        |        Role         |
+| :--------------------------------------------------------------------------------: | :-----------------: |
+|             <a href="https://www.linkedin.com/in/dorz/">Dor Zairi</a>              |    Project Lead     |
+|   <a href="https://www.linkedin.com/in/moses-mckeon-90212a221/">Moses Mckeon</a>   |    Project Lead     |
+| <a href="https://www.linkedin.com/in/moses-mckeon-90212a221/">Maxwell Donnelly</a> | GamePlay Programmer |
+
 
 # Tech That Was Used In The Project 👩‍💻
 
