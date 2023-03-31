@@ -15,7 +15,7 @@ The game was develop for the program of Game Programming and Design of Humber Co
 
 To View Our Project GDD <a href ="https://docs.google.com/document/d/1z9bbO228pJGLcEswCIYL1J6K8Z5_Y8eXFhxP-M9GANo/edit?usp=sharing"> :open_book:</a>
 
-Click On <code><a href="https://trello.com/invite/b/1UWEQkvj/ATTI48473ab65f195401564fa11dc71a940473473C31/cosmic-catch"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/trello/trello-plain-wordmark.svg" alt="trello board" width="60" height="60"/></a></code> To Go To Our Public Trello Board
+Click On <code><a href="https://trello.com/b/1UWEQkvj/cosmic-catch"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/trello/trello-plain-wordmark.svg" alt="trello board" width="60" height="60"/></a></code> To Go To Our Public Trello Board
 
 ## Controls
 
@@ -206,7 +206,7 @@ the artist consists of :
 <a href="https://www.linkedin.com/in/kyla-evans-48a106217/">Kyla</a>,
 <a href="https://www.linkedin.com/in/jolene-sollner-48b768220">Jolene</a>,
 
-###### Pogrammers Roles In The Project
+###### Programmers Roles In The Project
 
 <!-- TODO add all the programmers and their role -->
 <div align="center">
@@ -234,20 +234,23 @@ the artist consists of :
 
 <div align="center">
 
-|                                      Name                                      |        Role         |
-| :----------------------------------------------------------------------------: | :-----------------: |
-|  <a href="https://www.linkedin.com/mwlite/in/ariel-lima-702291269">Ariel</a>   |    Project Lead     |
-|     <a href="https://www.linkedin.com/in/c-f-émilie-194a07268/">Emilie</a>     |    Project Lead     |
-|  <a href="https://www.linkedin.com/in/jena-palma-thompson-b40b64239">Jena</a>  | GamePlay Programmer |
-| <a href="https://www.linkedin.com/in/sonalika-bansiwal-721b21219">Sonalika</a> |         N\A         |
-|    <a href="https://www.linkedin.com/in/ariana-yang-94b165259/">Ariana</a>     |         N\A         |
-| <a href="https://www.linkedin.com/in/carlos-iglesias-fu-460094149/">Carlos</a> |         N\A         |
-|       <a href="https://www.linkedin.com/in/linh-luu-b44b61233">Linh</a>        |         N\A         |
-|       <a href="https://www.linkedin.com/in/sam-sameni-aa4609221">Sam</a>       |         N\A         |
-|      <a href="https://www.linkedin.com/in/dueol-lee-endjfcar/">Dueol</a>       |         N\A         |
-|          <a href="https://www.linkedin.com/in/itsabelle">Isabelle</a>          |         N\A         |
-|      <a href="https://www.linkedin.com/in/kyla-evans-48a106217/">Kyla</a>      |         N\A         |
-|   <a href="https://www.linkedin.com/in/jolene-sollner-48b768220">Jolene</a>    |         N\A         |
+|                                      Name                                      |          Role          |
+| :----------------------------------------------------------------------------: | :--------------------: |
+|  <a href="https://www.linkedin.com/mwlite/in/ariel-lima-702291269">Ariel</a>   |      Project Lead      |
+|     <a href="https://www.linkedin.com/in/c-f-émilie-194a07268/">Emilie</a>     |      Project Lead      |
+| <a href="https://www.linkedin.com/in/carlos-iglesias-fu-460094149/">Carlos</a> | level design team lead |
+| <a href="https://www.linkedin.com/in/sonalika-bansiwal-721b21219">Sonalika</a> | level design team lead |
+|                                Slab Bannenberg                                 | level design team lead |
+|      <a href="https://www.linkedin.com/in/kyla-evans-48a106217/">Kyla</a>      | SFX and VFX team lead  |
+|    <a href="https://www.linkedin.com/in/ariana-yang-94b165259/">Ariana</a>     | SFX and VFX team lead  |
+|       <a href="https://www.linkedin.com/in/sam-sameni-aa4609221">Sam</a>       |   lighting team lead   |
+|                                      Jena                                      | environment team lead  |
+|      <a href="https://www.linkedin.com/in/dueol-lee-endjfcar/">Dueol</a>       | environment team lead  |
+|  <a href="https://www.linkedin.com/in/jena-palma-thompson-b40b64239">Jena</a>  |  GamePlay Programmer   |
+|       <a href="https://www.linkedin.com/in/linh-luu-b44b61233">Linh</a>        |          N\A           |
+|          <a href="https://www.linkedin.com/in/itsabelle">Isabelle</a>          |       UI artists       |
+|   <a href="https://www.linkedin.com/in/jolene-sollner-48b768220">Jolene</a>    |    Lighting artist     |
+|                                      Issa                                      |  level design artist   |
 
 </div>
 
@@ -255,13 +258,15 @@ the artist consists of :
 
 <!-- TODO add more tech to this section -->
 
-<a align="center" href="https://en.wikipedia.org/wiki/Unreal_Engine"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/unrealengine/unrealengine-original-wordmark.svg" alt="Unreal Engine" width="50" height="50"/></a> - Unreal Engine
+<a align="center" href="https://en.wikipedia.org/wiki/Unreal_Engine"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/unrealengine/unrealengine-original-wordmark.svg" alt="Unreal Engine" width="30" height="30"/></a> - Unreal Engine
 
-<a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bash/bash-original.svg" alt="Bash" width="50" height="50"/></a> - Bash
+<a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bash/bash-original.svg" alt="Bash" width="30" height="30"/></a> - Bash
 
-<a href="https://en.wikipedia.org/wiki/Git"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50"/></a> - Git
+<a href="https://en.wikipedia.org/wiki/Git"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original-wordmark.svg" alt="Git" width="30" height="30"/></a> - Git
 
-<a href="https://en.wikipedia.org/wiki/C++"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/></a> - C++
+<a href="https://en.wikipedia.org/wiki/C++"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-original.svg" alt="C++" width="30" height="30"/></a> - C++
+
+<a href="https://en.wikipedia.org/wiki/C++"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/photoshop/photoshop-plain.svg" alt="C++" width="30" height="30"/></a> - Photoshop
 
 <!-- TODO make a gif for the game -->
 <!-- # Show Case -->
