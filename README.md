@@ -250,7 +250,6 @@ the artist consists of :
 |    <a href="https://www.linkedin.com/in/linh-luu-b44b61233"> Linh lee </a>     |  level design artist   |
 |          <a href="https://www.linkedin.com/in/itsabelle">Isabelle</a>          |       UI artists       |
 |   <a href="https://www.linkedin.com/in/jolene-sollner-48b768220">Jolene</a>    |    Lighting artist     |
-|                                                                                |                        |
 
 </div>
 
@@ -258,19 +257,7 @@ the artist consists of :
 
 <!-- TODO add more tech to this section -->
 
-<a align="center" href="https://en.wikipedia.org/wiki/Unreal_Engine"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/unrealengine/unrealengine-original-wordmark.svg" alt="Unreal Engine" width="30" height="30"/></a> - Unreal Engine
-
-<a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bash/bash-original.svg" alt="Bash" width="30" height="30"/></a> - Bash
-
-<a href="https://en.wikipedia.org/wiki/Git"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original-wordmark.svg" alt="Git" width="30" height="30"/></a> - Git
-
-<a href="https://en.wikipedia.org/wiki/C++"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-original.svg" alt="C++" width="30" height="30"/></a> - C++
-
-<a href="https://en.wikipedia.org/wiki/photoshop"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="30" height="30"/></a> - Photoshop
-
-<a href="https://en.wikipedia.org/wiki/Blender_(software)"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/blender/blender-original.svg" alt="blender" width="30" height="30"/></a> - blender
-
-<a href="https://en.wikipedia.org/wiki/Autodesk_3ds_Max"><img src="https://www.svgrepo.com/show/303505/3ds-max-full-logo.svg" alt="3ds Max" width="30" height="30"/></a> - 3ds Max
+<a align="center" href="https://en.wikipedia.org/wiki/Unreal_Engine"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/unrealengine/unrealengine-original-wordmark.svg" alt="Unreal Engine" width="30" height="30"/></a> - Unreal Engine &emsp;&emsp; <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bash/bash-original.svg" alt="Bash" width="30" height="30"/></a> - Bash &emsp;&emsp; <a href="https://en.wikipedia.org/wiki/Git"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original-wordmark.svg" alt="Git" width="30" height="30"/></a> - Git &emsp;&emsp;<a href="https://en.wikipedia.org/wiki/C++"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-original.svg" alt="C++" width="30" height="30"/></a> - C++&emsp;&emsp; <a href="https://en.wikipedia.org/wiki/photoshop"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="30" height="30"/></a> - Photoshop &emsp;&emsp;<a href="https://en.wikipedia.org/wiki/Blender_(software)"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/blender/blender-original.svg" alt="blender" width="30" height="30"/></a> - blender &emsp;&emsp;<a href="https://en.wikipedia.org/wiki/Autodesk_3ds_Max"><img src="https://www.svgrepo.com/show/303505/3ds-max-full-logo.svg" alt="3ds Max" width="30" height="30"/></a> - 3ds Max
 
 <!-- TODO make a gif for the game -->
 <!-- # Show Case -->
