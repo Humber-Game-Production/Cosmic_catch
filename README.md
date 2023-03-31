@@ -247,10 +247,10 @@ the artist consists of :
 |                                      Jena                                      | environment team lead  |
 |      <a href="https://www.linkedin.com/in/dueol-lee-endjfcar/">Dueol</a>       | environment team lead  |
 |  <a href="https://www.linkedin.com/in/jena-palma-thompson-b40b64239">Jena</a>  |  GamePlay Programmer   |
-|       <a href="https://www.linkedin.com/in/linh-luu-b44b61233">Linh</a>        |          N\A           |
+|    <a href="https://www.linkedin.com/in/linh-luu-b44b61233"> Linh lee </a>     |  level design artist   |
 |          <a href="https://www.linkedin.com/in/itsabelle">Isabelle</a>          |       UI artists       |
 |   <a href="https://www.linkedin.com/in/jolene-sollner-48b768220">Jolene</a>    |    Lighting artist     |
-|                                      Issa                                      |  level design artist   |
+|                                                                                |                        |
 
 </div>
 
@@ -266,7 +266,11 @@ the artist consists of :
 
 <a href="https://en.wikipedia.org/wiki/C++"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-original.svg" alt="C++" width="30" height="30"/></a> - C++
 
-<a href="https://en.wikipedia.org/wiki/C++"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/photoshop/photoshop-plain.svg" alt="C++" width="30" height="30"/></a> - Photoshop
+<a href="https://en.wikipedia.org/wiki/photoshop"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="30" height="30"/></a> - Photoshop
+
+<a href="https://en.wikipedia.org/wiki/Blender_(software)"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/blender/blender-original.svg" alt="blender" width="30" height="30"/></a> - blender
+
+<a href="https://en.wikipedia.org/wiki/Autodesk_3ds_Max"><img src="https://www.svgrepo.com/show/303505/3ds-max-full-logo.svg" alt="3ds Max" width="30" height="30"/></a> - 3ds Max
 
 <!-- TODO make a gif for the game -->
 <!-- # Show Case -->
