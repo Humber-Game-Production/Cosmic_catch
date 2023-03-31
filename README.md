@@ -188,7 +188,8 @@ the programmers consists of :
 <a href="https://www.linkedin.com/in/jacob-bruce-93224522b/">Jacob Bruce</a>,
 <a href="https://www.linkedin.com/in/aaron-martin-bloom-34050a231/">Aaron Martin-Bloom</a>,
 <a href="https://www.linkedin.com/in/zavior-stephenson-87254b19b/">Zavior Stephenson</a>,
-<a href="https://ca.linkedin.com/in/ryler-bleau-359013206">Ryler B.</a>
+<a href="https://ca.linkedin.com/in/ryler-bleau-359013206">Ryler B.</a>,
+<a href="https://www.linkedin.com/in/gage-morash-a70131196/">Gage Morash</a>
 
 <br>
 the artist consists of :
@@ -210,15 +211,24 @@ the artist consists of :
 <!-- TODO add all the programmers and their role -->
 <div align="center">
 
-|                                        Name                                        |        Role         |
-| :--------------------------------------------------------------------------------: | :-----------------: |
-|             <a href="https://www.linkedin.com/in/dorz/">Dor Zairi</a>              |    Project Lead     |
-|   <a href="https://www.linkedin.com/in/moses-mckeon-90212a221/">Moses Mckeon</a>   |    Project Lead     |
-| <a href="https://www.linkedin.com/in/moses-mckeon-90212a221/">Maxwell Donnelly</a> | GamePlay Programmer |
+|                                            Name                                            |             Role              |
+| :----------------------------------------------------------------------------------------: | :---------------------------: |
+|                 <a href="https://www.linkedin.com/in/dorz/">Dor Zairi</a>                  |         Project Lead          |
+|       <a href="https://www.linkedin.com/in/moses-mckeon-90212a221/">Moses Mckeon</a>       |         Project Lead          |
+|        <a href="https://www.linkedin.com/in/jacob-bruce-93224522b/">Jacob Bruce</a>        |         Project Lead          |
+| <a href="https://www.linkedin.com/in/aaron-martin-bloom-34050a231/">Aaron Martin-Bloom</a> |         Gameplay Lead         |
+|        <a href="https://www.linkedin.com/in/gage-morash-a70131196/">Gage Morash</a>        | Level Design & game mode Lead |
+|          <a href="https://ca.linkedin.com/in/ryler-bleau-359013206">Ryler B.</a>           |            UI Lead            |
+|                 <a href="https://twitter.com/Akuzukii">Dominic Maximo</a>                  |         Level Design          |
+|                           <a href="https://twitter.com">Cole</a>                           |         Level Design          |
+|     <a href="https://www.linkedin.com/in/moses-mckeon-90212a221/">Maxwell Donnelly</a>     |           GamePlay            |
+|  <a href="https://www.linkedin.com/in/zavior-stephenson-87254b19b/">Zavior Stephenson</a>  |           Gameplay            |
+|      <a href="https://www.linkedin.com/in/william-huang-759a3921b">William Huang</a>       |              UI               |
+|            <a href="https://www.linkedin.com/in/antoniukoff/">Vlad Antoniuk</a>            |              UI               |
+
 </div>
 
 ###### Artists Roles In The Project
-
 
 <!-- TODO add all the artists and their role -->
 
