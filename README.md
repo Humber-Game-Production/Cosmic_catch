@@ -17,6 +17,8 @@ To View Our Project GDD <a href ="https://docs.google.com/document/d/1z9bbO228pJ
 
 Click On <code><a href="https://trello.com/b/1UWEQkvj/cosmic-catch"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/trello/trello-plain-wordmark.svg" alt="trello board" width="60" height="60"/></a></code> To Go To Our Public Trello Board
 
+checkout our documentation on  <a href="https://dorzairi.notion.site/dcc6a158f6014b0587f04bca768d1264?v=d8fd7090e5254f3f81e99f014aab6450">Notion <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="trello board" width="20" height="20"/></a>
+
 ## Controls
 
 ### PC Controls
